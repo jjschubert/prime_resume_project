@@ -9,9 +9,10 @@ h1 {
 }
 h3 {
   font-family: 'Helvetica', sans-serif;
+  margin: 15px;
 }
 .contact {
-  border: 1px solid black;
+  border: 2px solid black;
 }
 .date1 {
   float: right;
