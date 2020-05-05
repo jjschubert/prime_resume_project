@@ -11,4 +11,5 @@ h3 {
 }
 .contact {
   border: 5px solid black;
+  display: inline;
 }
