@@ -11,6 +11,10 @@ h3 {
   font-family: 'Helvetica', sans-serif;
   margin: 5px;
 }
+h2 {
+  font-family: 'Helvetica', sans-serif;
+}
+
 .contact {
   border: 2px solid black;
 }
