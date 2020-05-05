@@ -2,23 +2,24 @@ h1 {
   font-family: 'Helvetica', sans-serif;
   color: #327757;
 }
+
 .contact {
   font-family: 'Helvetica', sans-serif;
   color: #327757;
   font-size: 1rem;
   text-align: center;
+  border: 2px solid black;
 }
+
 h3 {
   font-family: 'Helvetica', sans-serif;
   margin: 5px;
 }
+
 h2 {
   font-family: 'Helvetica', sans-serif;
 }
 
-.contact {
-  border: 2px solid black;
-}
 .date1 {
   float: right;
 }
