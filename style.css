@@ -6,11 +6,13 @@ h1 {
   font-family: 'Helvetica', sans-serif;
   color: #327757;
   font-size: 1rem
-  
 }
 h3 {
   font-family: 'Helvetica', sans-serif;
 }
 .contact {
   border: 1px solid black;
+}
+.date1 {
+  float: right;
 }
