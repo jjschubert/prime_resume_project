@@ -18,19 +18,19 @@ h1 {
 
 h3 {
   font-family: 'Helvetica', sans-serif;
-  margin: 5px;
+  margin-right: 100px;
+  margin-left: 100px;
 }
 
 h2 {
   font-family: 'Helvetica', sans-serif;
+  margin-right: 100px;
+  margin-left: 100px;
 }
 
 .date1 {
   float: right;
 }
 
-.body {
-  margin: 50px;
-}
 
 
