@@ -1,6 +1,7 @@
 h1 {
   font-family: 'Helvetica', sans-serif;
   color: #327757;
+  
 }
 
 .contact {
@@ -28,11 +29,8 @@ h2 {
   float: right;
 }
 
-.SPM {
-  margin-bottom: 1px;
+.body {
+  margin: 50px;
 }
 
-.pm {
-  margin-top: 1px;
-}
 
