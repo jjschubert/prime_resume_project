@@ -25,5 +25,7 @@ h2 {
 }
 
 body {
-  background: url(https://cdn.pixabay.com/photo/2018/08/21/23/29/fog-3622519_960_720.jpg);
+  background: url(https://cdn.pixabay.com/photo/2016/07/28/08/50/sunbeam-1547273_960_720.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
 }
