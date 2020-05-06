@@ -9,7 +9,7 @@ h1 {
   font-size: 1rem;
   text-align: center;
   border: 2px solid black;
-  margin: 50px;
+  margin: 75px;
 }
 
 h3 {
@@ -23,8 +23,4 @@ h2 {
 
 .date1 {
   float: right;
-}
-
-.body {
-  margin: 200px;
 }
