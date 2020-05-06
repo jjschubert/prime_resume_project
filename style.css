@@ -24,10 +24,3 @@ h2 {
   float: right;
 }
 
-body {
-  background: url(https://cdn.pixabay.com/photo/2016/07/28/08/50/sunbeam-1547273_960_720.jpg);
-  height: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
