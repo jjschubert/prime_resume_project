@@ -24,6 +24,10 @@ h2 {
   float: right;
 }
 
+.head {
+  margin: 200px
+}
+
 .body {
   margin: 200px
 }
