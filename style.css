@@ -2,12 +2,13 @@
 h1 {
   font-family: 'Helvetica', sans-serif;
   color: #327757;
+  
 }
 
 .contact {
   font-family: 'Helvetica', sans-serif;
   color: #327757;
-  font-size: 2rem;
+  font-size: 1rem;
   text-align: center;
   border: 2px solid black;
   margin-top: 75px;
@@ -18,24 +19,23 @@ h1 {
 
 h3 {
   font-family: 'Helvetica', sans-serif;
+  margin-right: 100px;
+  margin-left: 100px;
 }
 
 h2 {
   font-family: 'Helvetica', sans-serif;
-}
-
-.JobTitle {
-  float: left;
-  margin-top: 3px;
-  margin-bottom: 3px;
-  text-align: left;
+  margin-right: 100px;
+  margin-left: 100px;
 }
 
 .date1 {
   float: right;
-  display: inline-block;
-  margin-top: 3px;
-  margin-bottom: 3px;
+}
+
+ul {
+  margin-right: 110px;
+  margin-left: 100px;
 }
 
 .center {
@@ -46,6 +46,26 @@ h2 {
   margin-right: auto;
 }
 
+.LPM {
+  display: inline;
+}
 
+.SPM {
+  display: inline;
+}
 
+.pm {
+  display: inline;
+}
 
+.SPC {
+  display: inline;
+}
+
+.PC {
+  display: inline;
+}
+
+.YEC {
+  display: inline;
+}
