@@ -1,8 +1,6 @@
-
 h1 {
   font-family: 'Helvetica', sans-serif;
   color: #327757;
-  
 }
 
 .contact {
@@ -31,11 +29,15 @@ h2 {
 
 .job {
   display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 .date1 {
   float: right;
   display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 ul {
@@ -50,6 +52,5 @@ ul {
   margin-left: auto;
   margin-right: auto;
 }
-
 
 
