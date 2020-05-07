@@ -1,3 +1,8 @@
+body {
+  margin-right:100px;
+  margin-left: 100px;
+}
+
 h1 {
   font-family: 'Helvetica', sans-serif;
   color: #327757;
@@ -17,14 +22,10 @@ h1 {
 
 h3 {
   font-family: 'Helvetica', sans-serif;
-  margin-right: 100px;
-  margin-left: 100px;
 }
 
 h2 {
   font-family: 'Helvetica', sans-serif;
-  margin-right: 100px;
-  margin-left: 100px;
 }
 
 .JobTitle {
@@ -39,11 +40,6 @@ h2 {
   display: inline-block;
   margin-top: 3px;
   margin-bottom: 3px;
-}
-
-ul {
-  margin-right: 110px;
-  margin-left: 100px;
 }
 
 .center {
