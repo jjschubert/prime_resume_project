@@ -27,9 +27,18 @@ h2 {
   margin-left: 100px;
 }
 
+.JobTitle {
+  display: inline-block;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  text-align: left;
+}
+
 .date1 {
   text-align: right;
   display: inline-block;
+  margin-top: 3px;
+  margin-bottom: 3px;
 }
 
 ul {
@@ -45,10 +54,6 @@ ul {
   margin-right: auto;
 }
 
-.JobTitle {
-  display: inline-block;
-  margin-top: 3px;
-  margin-bottom: 3px;
-}
+
 
 
