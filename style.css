@@ -27,17 +27,8 @@ h2 {
   margin-left: 100px;
 }
 
-.job {
-  display: inline-block;
-  margin-top: 5px;
-  margin-bottom: 5px;
-}
-
 .date1 {
   float: right;
-  display: inline-block;
-  margin-top: 5px;
-  margin-bottom: 5px;
 }
 
 ul {
@@ -51,6 +42,10 @@ ul {
   width: 25%;
   margin-left: auto;
   margin-right: auto;
+}
+
+.job {
+  display: inline;
 }
 
 
