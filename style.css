@@ -21,6 +21,8 @@ h3 {
   font-family: 'Helvetica', sans-serif;
   margin-right: 100px;
   margin-left: 100px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 h2 {
@@ -31,15 +33,11 @@ h2 {
 
 .job {
   display: inline-block;
-  padding-top: 5px;
-  padding-bottom: 5px;
 }
 
 .date1 {
   float: right;
   display: inline-block;
-  padding-top: 5px;
-  padding-bottom: 5px;
 }
 
 ul {
