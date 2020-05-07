@@ -47,6 +47,8 @@ ul {
 
 .job title {
   display: inline;
+  margin-top: 3px;
+  margin-bottom: 3px;
 }
 
 
