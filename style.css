@@ -54,6 +54,12 @@ ul {
   display: inline;
 }
 
+.job h3 {
+ padding: 0px;
+ margin-top: 0px;
+ margin-bottom: 0px;
+}
+
 .section {
   color: #327757
 }
